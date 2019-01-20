@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="B_makeup" size="0.100000 0.145801" />
+    <ImageTarget name="G_leadership" size="0.110000 0.141092" />
+    <ImageTarget name="B_feelings" size="0.080000 0.128842" />
+    <ImageTarget name="G_astro" size="0.010000 0.009756" />
+    <ImageTarget name="G_football" size="0.120000 0.119400" />
+    <ImageTarget name="B_ballet" size="0.090000 0.147253" />
+  </Tracking>
+</QCARConfig>
